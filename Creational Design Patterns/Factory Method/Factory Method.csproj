@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.0</TargetFramework>
-    <RootNamespace>Strategy_Design_Pattern</RootNamespace>
+    <RootNamespace>Factory_Method</RootNamespace>
   </PropertyGroup>
 
 </Project>
