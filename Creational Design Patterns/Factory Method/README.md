@@ -4,7 +4,7 @@ Define an interface for creating an object, but let subclasses decide which clas
 
 ## UML Diagram
 
-![Factory Method UML](https://github.com/prajnanBhuyan/Design-Patterns/tree/master/img/GoF-Design-Patterns-Creational-Patterns-Factory-Method-1.png")
+![Factory Method UML](https://github.com/prajnanBhuyan/Design-Patterns/blob/master/img/GoF-Design-Patterns-Creational-Patterns-Factory-Method-1.png)
 
 ## Participants
 
