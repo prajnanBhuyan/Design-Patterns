@@ -2,7 +2,7 @@
 
 ## Creational Design Patterns
 
-- [ ] Factory Method : Create instances of derived classes
+- [x] Factory Method : Create instances of derived classes
 - [ ] Abstract Factory : Create instances of several classes belonging to different families
 - [ ] Builder : Separates an object construction from its representation
 - [ ] Prototype : Create a duplicate object or clone of the object
