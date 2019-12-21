@@ -5,7 +5,7 @@
 - [x] Factory Method : Create instances of derived classes
 - [x] Abstract Factory : Create instances of several classes belonging to different families
 - [x] Builder : Separates an object construction from its representation
-- [ ] Prototype : Create a duplicate object or clone of the object
+- [x] Prototype : Create a duplicate object or clone of the object
 - [ ] Singleton : Ensures that a class can has only one instance
 
 ## Structural Design Patterns
