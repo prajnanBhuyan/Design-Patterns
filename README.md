@@ -6,7 +6,7 @@
 - [x] Abstract Factory : Create instances of several classes belonging to different families
 - [x] Builder : Separates an object construction from its representation
 - [x] Prototype : Create a duplicate object or clone of the object
-- [ ] Singleton : Ensures that a class can has only one instance
+- [x] Singleton : Ensures that a class can has only one instance
 
 ## Structural Design Patterns
 
