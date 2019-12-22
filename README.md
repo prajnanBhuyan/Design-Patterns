@@ -10,7 +10,7 @@
 
 ## Structural Design Patterns
 
-- [ ] Adapter : Match interfaces of different classes
+- [x] Adapter : Match interfaces of different classes
 - [ ] Bridge : Separates an object’s abstraction from its implementation
 - [ ] Composite : A tree structure of simple and composite objects
 - [ ] Decorator : Add responsibilities to objects dynamically
